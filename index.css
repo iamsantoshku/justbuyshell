@@ -1,0 +1,212 @@
+/* .container{
+    width: 40vw;
+    height: 100vw;
+    background-color: antiquewhite;
+    
+    margin-left: 30vw;
+} */
+@media screen {
+    
+}
+@media screen and (max-width: 600px){
+    .container{
+        position: relative;
+        width: 75vw;
+        margin-left: 8vw;
+        height: 337vw;
+        background-color: rgb(244, 242, 240);
+    
+    }
+    .avatar {
+        vertical-align: middle;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-top: 2vw;
+        margin-left: 2vw;
+    }
+    .noti{
+        margin-left: 60vw;
+        margin-top: -6vw;
+        margin-right: 10px;
+        display: flex;
+        justify-content: space-between;
+        
+        
+    }
+    /* .fa fa-search{
+        font-size: 80px;
+    } */
+    .nifty{
+        display: flex;
+        size: 10px;
+        justify-content: space-between;
+    }
+    .img1{
+        height: 13vw;
+        width: 35vw;
+        border-radius: 15px;
+        margin: 8px;
+        margin-top: 40px;
+    }
+    .img3{
+        height: 25vw;
+        width: 71vw;
+        border-radius: 15px;
+        margin: 8px;
+        margin-top: 20px;
+
+    }
+    .hed{
+        
+        margin-left: 5vw;
+    }
+    h3{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-left: 3vw;
+        margin-top: 10px;
+
+    }
+    .info2 {
+        vertical-align: middle;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-top: 2vw;
+        margin-left: 2vw;
+
+
+    }
+    .info1{
+        display: flex;
+        justify-content: space-between;
+
+    }
+    .detail1{
+        display: flex;
+        justify-content: space-between;
+    }
+     /* h5 .dt1{
+        margin-left: 10px;
+    } */
+    .h h5{
+        margin-left: 15px;
+    }
+    .h1 h5{
+        margin-right: 10px;
+    }
+    .container1{
+        /* margin-top: 10vw;
+        height: 30vw;
+        width: 50vw;
+        background-color: white; */
+        display: flex;
+    }
+    .mutual1{
+        height: 20vw;
+        width: 50vw;
+        border-radius: 10px;
+        box-shadow: rgb(82, 76, 70);
+        margin-left: 3vw;
+        border: 0.5px solid rgb(139, 134, 134);
+        
+    }
+    .sto{
+        height: 50vw;
+        width: 70vw;
+        background-color: rgb(120, 94, 59);
+        color: antiquewhite;
+        margin-left: 2vw;
+        border-radius: 20px;
+    }
+    .trend{
+        margin-top: 8vw;
+        height: 20vw;
+        width: 50vw;
+        border-radius: 10px;
+        /* box-shadow: rgb(82, 76, 70); */
+        margin-left: 2vw;
+        /* border: 0.5px solid rgb(139, 134, 134); */
+        /* border: 0.5px solid black; */
+
+    }
+    .trend1{
+        height: 20vw;
+        width: 50vw;
+        border-radius: 10px;
+        box-shadow: rgb(82, 76, 70);
+        margin-left: 3vw;
+        border: 0.5px solid rgb(139, 134, 134);
+        margin-top: -2vw;
+
+    }
+    .pop{
+        margin-left: 1vw;
+        margin-top: 3vw;
+        display: flex;
+        border-radius: 10px;
+    }
+    .cours{
+        height: 25vw;
+        width: 40vw;
+        margin-left: 3vw;
+        border-radius: 10px;
+    }
+    h4{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-left: 3vw;
+        margin-top: 2px;
+
+    }
+    .course h3{
+        margin-top: 15vw;
+        margin-left: 4vw;
+    }
+    .comm1{
+        height: 25vw;
+        width: 65vw;
+        border-radius: 5px;
+        margin-left: 4vw;
+        margin-top: -2vw;
+
+    }
+    .comm{
+        margin-top: 7vw;
+    }
+    .navbar {
+        width: 100%;
+        /* background-color: #f5f1f1; */
+        background-color: rgb(151, 143, 143);
+        /* overflow: auto; */
+
+        overflow: hidden;
+        /* position: fixed; */
+        margin-top: 2vw;
+        border-radius: 10px;
+      }
+      
+      
+     .navbar a {
+        /* position: absolute; */
+        float: left;
+        text-align: center;
+        display: block;
+        padding: 12px;
+        color: rgb(30, 28, 28);
+        text-decoration: none;
+        font-size: 17px;
+      }
+      
+      
+      .navbar a:hover {
+        background-color: #cfc6c6;
+      }
+      
+      /* Current/active navbar link */
+      .active {
+        background-color: #04AA6D;
+      }
+
+}
+    
+
